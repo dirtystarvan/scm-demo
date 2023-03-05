@@ -2,3 +2,6 @@
 	path = src/main/resources/schemas
 	url = https://github.com/dirtystarvan/schemas
 	branch = main
+
+# git submodule update --remote
+# git config -f .gitmodules submodule.src/main/resources/schemas.branch main
